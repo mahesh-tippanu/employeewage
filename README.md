@@ -1,1 +1,1 @@
-# Welcomne to employeewage
+# Welcome to employeewage
